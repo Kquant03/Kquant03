@@ -8,4 +8,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Kquant03/Kquant03/assets/155934148/75ea256f-4805-417c-ae17-aca5664bae0e');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Kquant03/Kquant03/assets/155934148/67e4b7a6-2628-4ccd-bf24-39c536d49020');]{x0000}$}
