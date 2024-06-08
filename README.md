@@ -3,6 +3,8 @@
 # <span style="color: #555;">Developing Artificial Intelligence Through Data Science</span>
 
 [AI Guide](https://guide.repleteai.com/)
+  <canvas id="gameCanvas" width="400" height="400"></canvas>
+  
   <script>
     const canvas = document.getElementById('gameCanvas');
     const ctx = canvas.getContext('2d');
