@@ -3,17 +3,17 @@
   
   <h2>Advancing Artificial Intelligence With Data Science</h2>
 
-  <div>
-    <a href="https://www.linkedin.com/in/stanley-sebastian-99336a2b0/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://x.com/_kquant" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://repleteai.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-blueviolet?style=flat-square&logo=link&logoColor=white" alt="Website">
-    </a>
-  </div>
+<div>
+  <a href="https://www.linkedin.com/in/stanley-sebastian-99336a2b0/" target="_blank" style="text-decoration: none; margin-right: 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/_kquant" target="_blank" style="text-decoration: none; margin-right: 5px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://repleteai.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Website-blueviolet?style=flat-square&logo=link&logoColor=white" alt="Website">
+  </a>
+</div>
 
   <h2>🚀 Projects</h2>
   
