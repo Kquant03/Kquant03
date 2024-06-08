@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Kquant03/Kquant03/assets/155934148/613f3033-1840-414c-9e21-fcf242445a01" alt="Header Image">
-  
+  <img src="https://github.com/Kquant03/Kquant03/assets/155934148/9d5ebea6-5dc7-48d1-a50c-a1310f37b379" alt="Header Image">
+
   <h2>Advancing Artificial Intelligence Utilizing Data Science</h2>
 
 <div>
