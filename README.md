@@ -61,12 +61,10 @@
   
   <p>I'm currently exploring the following technologies:</p>
   
-  <ul>
-    <li>Machine Learning</li>
-    <li>Cloud Computing</li>
-    <li>Data Science</li>
-    <li>Deep Learning</li>
-  </ul>
+    <p>Machine Learning</p>
+    <p>Cloud Computing</p>
+    <p>Data Science</p>
+    <p>Deep Learning</p>
   
   <h2>📫 Get in Touch</h2>
   
