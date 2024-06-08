@@ -11,7 +11,7 @@
 
 <style>
   body {
-    background-image: url('https://your-image-url');
+    background-image: url('https://github.com/Kquant03/Kquant03/assets/155934148/3930e225-6c6f-4775-b37e-15f679ee7c19');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
