@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[Kquant03](https://github.com/Kquant03/Kquant03/assets/155934148/2ea1c1af-f709-4454-9af3-049b2f1c0ce3)" alt="Header Image">
+  <img src="https://github.com/Kquant03/Kquant03/assets/155934148/2ea1c1af-f709-4454-9af3-049b2f1c0ce3" alt="Header Image">
   
   <h2>Advancing Artificial Intelligence With Data Science</h2>
 
