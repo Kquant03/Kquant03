@@ -1,10 +1,20 @@
-$$
-\begin{aligned}
-&\huge\textbf{\color{white}{\text{Developing Artificial Intelligence Through Data Science}}}\\
-&\Large\textbf{\color{white}{\text{[AI Guide](https://guide.repleteai.com/)}}}\\
-&\Huge\textbf{\color{white}{\text{[Replete AI](https://repleteai.com/)}}}
-\end{aligned}
-$$
+<div align="center">
 
-\pagecolor{black}
-\includegraphics[width=\paperwidth,height=\paperheight]{https://github.com/Kquant03/Kquant03/assets/155934148/479c0815-5d4d-4fa4-ba4c-c0bd77e84490}
+# <span style="color: #555;">Developing Artificial Intelligence Through Data Science</span>
+
+[AI Guide](https://guide.repleteai.com/)
+
+### <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 6em;"><b>[Replete AI](https://repleteai.com/)</b></span>
+
+
+![Background Image](https://github.com/Kquant03/Kquant03/assets/155934148/3930e225-6c6f-4775-b37e-15f679ee7c19)
+
+<style>
+  body {
+    background-image: url('https://your-image-url');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+</style>!
