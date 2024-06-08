@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Kquant03/Kquant03/assets/155934148/2ea1c1af-f709-4454-9af3-049b2f1c0ce3" alt="Header Image">
+  <img src="https://github.com/Kquant03/Kquant03/assets/155934148/613f3033-1840-414c-9e21-fcf242445a01" alt="Header Image">
   
-  <h2>Advancing Artificial Intelligence With Data Science</h2>
+  <h2>Advancing Artificial Intelligence Utilizing Data Science</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/stanley-sebastian-99336a2b0/" target="_blank" style="text-decoration: none; margin-right: 5px;">
