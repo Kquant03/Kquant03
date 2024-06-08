@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
     </a>
     <a href="https://repleteai.com/" target="_blank">
-      <img src="https://github.com/Kquant03/Kquant03/assets/155934148/b772fceb-0d91-45dd-b8f4-c0bb6ffd8205" alt="Website">
+      <img src="https://img.shields.io/badge/Website-blueviolet?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
     </a>
   </div>
 
