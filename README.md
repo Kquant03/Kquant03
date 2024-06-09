@@ -6,7 +6,7 @@
 <div>
   <div>
     <a href="https://www.linkedin.com/in/stanley-sebastian-99336a2b0/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" alt="LinkedIn">
     </a>
   </div>
   <div>
