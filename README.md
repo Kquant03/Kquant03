@@ -45,9 +45,14 @@
       <td>Python, Together.ai API, Prompt-Engineering, Mirroring of Neural Patterns.</td>
     </tr>
     <tr>
-      <td><a href="https://airr.repleteai.com/">A.I.R.R.</a></td>
-      <td>Built a website, handled the copywriting for, and currently hosting a subdomain for a community that one of my close friends started.</td>
-      <td>Next.js, CSS</td>
+      <td>System Prompt Generator (unreleased)</td>
+      <td>A python script that synthetically generates system prompts for ShareGPT datasets</td>
+      <td>Python, Together.ai API, Prompt-Engineering</td>
+    </tr>
+    <tr>
+      <td>Interactive Experience Generator (unreleased)</td>
+      <td>A data pipeline that generates interactions between a human and an AI in ShareGPT format.</td>
+      <td>Python, Together.ai API, Prompt-Engineering</td>
     </tr>
       <td><a href="https://docs.google.com/document/d/15i8nZSVJju73kHg7vkRbAw6LOknt9ORoqzdOrZu6UX4/edit?usp=sharing">Multiversal Data</a> (wip)</td>
       <td>A potential solution to help Large Language Models predict future events.</td>
