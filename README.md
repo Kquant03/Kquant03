@@ -45,6 +45,11 @@
       <td>Python, Together.ai API, Prompt-Engineering, Mirroring of Neural Patterns.</td>
     </tr>
     <tr>
+      <td>Study Guide for LLMs (wip)</td>
+      <td>A dataset to help LLMs study for the ARC-C and MMLU benchmarks by utilizing the Nemotron model.</td>
+      <td>Python, Nvidia API, Prompt-Engineering</td>
+    </tr>
+    <tr>
       <td>System Prompt Generator (unreleased)</td>
       <td>A python script that synthetically generates system prompts for ShareGPT datasets</td>
       <td>Python, Together.ai API, Prompt-Engineering</td>
@@ -53,6 +58,11 @@
       <td>Interactive Experience Generator (unreleased)</td>
       <td>A data pipeline that generates interactions between a human and an AI in ShareGPT format.</td>
       <td>Python, Together.ai API, Prompt-Engineering</td>
+    </tr>
+    <tr>
+      <td>Nemotron 340B Data Generation Pipeline (unreleased)</td>
+      <td>A data pipeline to generate multiturn data with Nvidia's new 340B Nemotron model, in the ShareGPT format.</td>
+      <td>Python, Nvidia API, Prompt-Engineering</td>
     </tr>
       <td><a href="https://docs.google.com/document/d/15i8nZSVJju73kHg7vkRbAw6LOknt9ORoqzdOrZu6UX4/edit?usp=sharing">Multiversal Data</a> (wip)</td>
       <td>A potential solution to help Large Language Models predict future events.</td>
