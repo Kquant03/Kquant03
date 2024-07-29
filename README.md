@@ -35,6 +35,11 @@
       <td>Transformers, PEFT, TTS, Latent Diffusion, Fine-tuning techniques</td>
     </tr>
     <tr>
+      <td><a href="https://operation-athena.repleteai.com/">Operation Athena</a></td>
+      <td>Curating a large database of reasoning tasks that updates in real time and has self moderation capabilities</td>
+      <td>Next.js, Node.js, MongoDB</td>
+    </tr>
+    <tr>
       <td>Pneuma (wip)</td>
       <td>Training an LLM on realistic human interactions, conversations, and experiences.</td>
       <td>Python, Fine-Tuning, Direct-Preference-Optimization </td>
