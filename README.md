@@ -42,7 +42,7 @@
     <tr>
       <td>The Caduceus Project<br>(<a href="https://github.com/Kquant03/caduceus">Code</a>) (<a href="https://huggingface.co/datasets/Kquant03/Caduceus-Dataset">Dataset</a>)</td>
       <td>Utilizing GPT-4o to convert highly technical medical and scientific protocls into markdown files.</td>
-      <td>Python, OpenAI API, </td>
+      <td>Python, OpenAI API</td>
     </tr>
     <tr>
       <td>Pneuma (wip)</td>
