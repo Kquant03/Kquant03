@@ -45,7 +45,7 @@
       <td>Python, OpenAI API</td>
     </tr>
     <tr>
-      <td><a href="https://huggingface.co/Replete-AI/L3-Pneuma-8B">Pneuma</a> (COMING SOON)</td>
+      <td><a href="https://huggingface.co/Replete-AI/L3-Pneuma-8B">Pneuma</a><br>(COMING SOON)</td>
       <td>Training an LLM on realistic human interactions, conversations, experiences, and highly augmented instruction data.</td>
       <td>Python, Fine-Tuning, Direct-Preference-Optimization </td>
     </tr>
