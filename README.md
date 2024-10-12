@@ -5,17 +5,57 @@
 
   <h2>🚀 Projects</h2>
   
-| Project Name | Description | Technologies |
-|--------------|-------------|--------------|
-| Replete AI (wip) | A platform for my organization to host models, publish datasets, write guides, and curate information regarding artificial intelligence. ([Site under maintenance](https://repleteai.com/)) | React, Node, Axios, Nextra Docs, TabbyAPI |
-| Operation Athena | Curating a large database of reasoning tasks that updates in real time and has self moderation capabilities. ([Access on desktop](https://operation-athena.repleteai.com/)) | Next.js, Node.js, MongoDB |
-| The Caduceus Project | Utilizing GPT-4o to convert highly technical medical and scientific protocols into markdown files. ([Code](https://github.com/Kquant03/caduceus)) ([Dataset](https://huggingface.co/datasets/Kquant03/Caduceus-Dataset)) | Python, OpenAI API |
-| Pneuma | Training an LLM on realistic human interactions, conversations, experiences, and highly augmented instruction data. Can write its own system prompts. ([COMING SOON](https://huggingface.co/Replete-AI/L3-Pneuma-8B)) | Python, Fine-Tuning, Direct-Preference-Optimization |
-| Apocrypha and Sandevistan | Datasets representing experiences, imaginative scenarios, and other such things we normally don't train LLMs on. ([Apocrypha](https://huggingface.co/datasets/Replete-AI/Apocrypha)) ([Sandevistan](https://huggingface.co/datasets/Replete-AI/Sandevistan)) | Python, Together.ai API, Prompt-Engineering, Mirroring of Neural Patterns. |
-| Study Guide for LLMs | A dataset to help LLMs study for the ARC-C and MMLU benchmarks by utilizing the Nemotron model. ([Access here](https://huggingface.co/datasets/Kquant03/Nemotron-Study-Guide)) | Python, Nvidia API, Prompt-Engineering |
-| System Prompt Generator | A python script that synthetically generates system prompts for ShareGPT datasets. ([Main](https://github.com/Replete-AI/System-Prompt-Generator)) ([Groq](https://github.com/Replete-AI/System-Prompt-Generator/tree/groq)) | Python, Together.ai API, Groq API, Prompt Engineering, Few-shot Prompting |
-| Interactive Experience Generator | A data pipeline that generates interactions between a human and an AI in ShareGPT format. ([Main](https://github.com/Replete-AI/Interactive-Experience-Generator)) ([Nvidia](https://github.com/Replete-AI/Interactive-Experience-Generator/tree/nvidia)) ([Groq](https://github.com/Replete-AI/Interactive-Experience-Generator/tree/groq)) | Python, Together.ai API, Nvidia API, Groq API, Prompt-Engineering, Few-shot Prompting |
-| Multiversal Data (wip) | A potential solution to help Large Language Models predict future events. ([Access document](https://docs.google.com/document/d/15i8nZSVJju73kHg7vkRbAw6LOknt9ORoqzdOrZu6UX4/edit?usp=sharing)) | Python, Together.ai API, Groq API, Prompt-Engineering, Few-shot Prompting |
+  <table>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td>Replete AI (wip)</td>
+      <td>A platform for my organization to host models, publish datasets, write guides, and curate information regarding artificial intelligence.<br>(<a href="https://repleteai.com/">Site under maintenance</a>)</td>
+      <td>React, Node, Axios, Nextra Docs, TabbyAPI</td>
+    </tr>
+    <tr>
+      <td>Operation Athena</td>
+      <td>Curating a large database of reasoning tasks that updates in real time and has self moderation capabilities<br>(<a href="https://operation-athena.repleteai.com/">Access on desktop</a>)</td>
+      <td>Next.js, Node.js, MongoDB</td>
+    </tr>
+    <tr>
+      <td>The Caduceus Project</td>
+      <td>Utilizing GPT-4o to convert highly technical medical and scientific protocols into markdown files.<br>(<a href="https://github.com/Kquant03/caduceus">Code</a>) (<a href="https://huggingface.co/datasets/Kquant03/Caduceus-Dataset">Dataset</a>)</td>
+      <td>Python, OpenAI API</td>
+    </tr>
+    <tr>
+      <td>Pneuma</td>
+      <td>Training an LLM on realistic human interactions, conversations, experiences, and highly augmented instruction data. Can write its own system prompts.<br>(<a href="https://huggingface.co/Replete-AI/L3-Pneuma-8B">COMING SOON</a>)</td>
+      <td>Python, Fine-Tuning, Direct-Preference-Optimization </td>
+    </tr>
+    <tr>
+      <td>Apocrypha and Sandevistan</td>
+      <td>Datasets representing experiences, imaginative scenarios, and other such things we normally don't train LLMs on.<br>(<a href="https://huggingface.co/datasets/Replete-AI/Apocrypha">Apocrypha</a>) (<a href="https://huggingface.co/datasets/Replete-AI/Sandevistan">Sandevistan</a>)</td>
+      <td>Python, Together.ai API, Prompt-Engineering, Mirroring of Neural Patterns.</td>
+    </tr>
+    <tr>
+      <td>Study Guide for LLMs</a></td>
+      <td>A dataset to help LLMs study for the ARC-C and MMLU benchmarks by utilizing the Nemotron model.<br>(<a href="https://huggingface.co/datasets/Kquant03/Nemotron-Study-Guide">Access here</a>)</td>
+      <td>Python, Nvidia API, Prompt-Engineering</td>
+    </tr>
+    <tr>
+      <td>System Prompt Generator</td>
+      <td>A python script that synthetically generates system prompts for ShareGPT datasets. <br>(<a href="https://github.com/Replete-AI/System-Prompt-Generator">Main</a>) (<a href="https://github.com/Replete-AI/System-Prompt-Generator/tree/groq">Groq</a>)</td>
+      <td>Python, Together.ai API, Groq API, Prompt Engineering, Few-shot Prompting</td>
+    </tr>
+    <tr>
+      <td>Interactive Experience Generator</td>
+      <td>A data pipeline that generates interactions between a human and an AI in ShareGPT format.<br>(<a href="https://github.com/Replete-AI/Interactive-Experience-Generator">Main</a>) (<a href="https://github.com/Replete-AI/Interactive-Experience-Generator/tree/nvidia">Nvidia</a>) (<a href="https://github.com/Replete-AI/Interactive-Experience-Generator/tree/groq">Groq</a>)</td>
+      <td>Python, Together.ai API, Nvidia API, Groq API, Prompt-Engineering, Few-shot Prompting</td>
+    </tr>
+      <td>Multiversal Data (wip)</td>
+      <td>A potential solution to help Large Language Models predict future events.<br>(<a href="https://docs.google.com/document/d/15i8nZSVJju73kHg7vkRbAw6LOknt9ORoqzdOrZu6UX4/edit?usp=sharing">Access document</a>)</td>
+      <td>Python, Together.ai API, Groq API, Prompt-Engineering, Few-shot Prompting</td>
+    </tr>
+  </table>
   
   <h2>💼 Skills</h2>
 
