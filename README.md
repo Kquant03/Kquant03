@@ -3,24 +3,6 @@
 
   <h2>Building Wholistic Systems for a Better Future</h2>
 
-<div>
-  <div>
-    <a href="https://www.linkedin.com/in/stanley-sebastian-99336a2b0/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" alt="LinkedIn">
-    </a>
-  </div>
-  <div>
-    <a href="https://x.com/_kquant" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-  </div>
-  <div>
-    <a href="https://repleteai.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-blueviolet?style=flat-square&logo=link&logoColor=white" alt="Website">
-    </a>
-  </div>
-</div>
-
   <h2>🚀 Projects</h2>
   
   <table>
