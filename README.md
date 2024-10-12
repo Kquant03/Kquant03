@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Kquant03/Kquant03/assets/155934148/9d5ebea6-5dc7-48d1-a50c-a1310f37b379" alt="Header Image">
 
-  <h2>Advancing Artificial Intelligence With Data Science</h2>
+  <h2>Building Wholistic Systems for a Better Future</h2>
 
 <div>
   <div>
