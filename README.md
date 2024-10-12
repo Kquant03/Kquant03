@@ -30,9 +30,9 @@
       <th>Technologies</th>
     </tr>
     <tr>
-      <td><a href="https://guide.repleteai.com/">Guide on Everything AI</a></td>
-      <td>Maintaining a comprehensive guide on everything I've learned regarding artificial intelligence.</td>
-      <td>Transformers, PEFT, TTS, Latent Diffusion, Fine-tuning techniques</td>
+      <td><a href="https://repleteai.com/">Replete AI</a> (wip)</td>
+      <td>A platform for my organization to host models, publish datasets, write guides, and curate information regarding artificial intelligence.</td>
+      <td>React, Node, Axios, Nextra Docs, TabbyAPI</td>
     </tr>
     <tr>
       <td><a href="https://operation-athena.repleteai.com/">Operation Athena</a></td>
@@ -41,42 +41,37 @@
     </tr>
     <tr>
       <td>The Caduceus Project<br>(<a href="https://github.com/Kquant03/caduceus">Code</a>) (<a href="https://huggingface.co/datasets/Kquant03/Caduceus-Dataset">Dataset</a>)</td>
-      <td>Utilizing GPT-4o to convert highly technical medical and scientific protocls into markdown files.</td>
+      <td>Utilizing GPT-4o to convert highly technical medical and scientific protocols into markdown files.</td>
       <td>Python, OpenAI API</td>
     </tr>
     <tr>
-      <td>Pneuma (wip)</td>
-      <td>Training an LLM on realistic human interactions, conversations, and experiences.</td>
+      <td><a href="https://huggingface.co/Replete-AI/L3-Pneuma-8B">Pneuma</a> (COMING SOON)</td>
+      <td>Training an LLM on realistic human interactions, conversations, experiences, and highly augmented instruction data.</td>
       <td>Python, Fine-Tuning, Direct-Preference-Optimization </td>
     </tr>
     <tr>
-      <td>Apocrypha and Sandevistan (wip)</td>
+      <td><a href="https://huggingface.co/datasets/Replete-AI/Apocrypha">Apocrypha</a> and <a href="https://huggingface.co/datasets/Replete-AI/Sandevistan">Sandevistan</a></td>
       <td>Datasets representing experiences, imaginative scenarios, and other such things we normally don't train LLMs on.</td>
       <td>Python, Together.ai API, Prompt-Engineering, Mirroring of Neural Patterns.</td>
     </tr>
     <tr>
-      <td>Study Guide for LLMs (wip)</td>
+      <td><a href="https://huggingface.co/datasets/Kquant03/Nemotron-Study-Guide">Study Guide for LLMs</a></td>
       <td>A dataset to help LLMs study for the ARC-C and MMLU benchmarks by utilizing the Nemotron model.</td>
       <td>Python, Nvidia API, Prompt-Engineering</td>
     </tr>
     <tr>
-      <td>System Prompt Generator (unreleased)</td>
+      <td>System Prompt Generator<br>(<a href="https://github.com/Replete-AI/System-Prompt-Generator">Main</a>) (<a href="https://github.com/Replete-AI/System-Prompt-Generator/tree/groq">Groq</a>)</td>
       <td>A python script that synthetically generates system prompts for ShareGPT datasets</td>
-      <td>Python, Together.ai API, Prompt-Engineering</td>
+      <td>Python, Together.ai API, Groq API, Prompt Engineering, Few-shot Prompting</td>
     </tr>
     <tr>
-      <td>Interactive Experience Generator (unreleased)</td>
+      <td>Interactive Experience Generator<br>(<a href="https://github.com/Replete-AI/Interactive-Experience-Generator">Main</a>) (<a href="https://github.com/Replete-AI/Interactive-Experience-Generator/tree/nvidia">Nvidia</a>) (<a href="https://github.com/Replete-AI/Interactive-Experience-Generator/tree/groq">Groq</a>)</td>
       <td>A data pipeline that generates interactions between a human and an AI in ShareGPT format.</td>
-      <td>Python, Together.ai API, Prompt-Engineering</td>
-    </tr>
-    <tr>
-      <td>Nemotron 340B Data Generation Pipeline (unreleased)</td>
-      <td>A data pipeline to generate multiturn data with Nvidia's new 340B Nemotron model, in the ShareGPT format.</td>
-      <td>Python, Nvidia API, Prompt-Engineering</td>
+      <td>Python, Together.ai API, Nvidia API, Groq API, Prompt-Engineering, Few-shot Prompting</td>
     </tr>
       <td><a href="https://docs.google.com/document/d/15i8nZSVJju73kHg7vkRbAw6LOknt9ORoqzdOrZu6UX4/edit?usp=sharing">Multiversal Data</a> (wip)</td>
       <td>A potential solution to help Large Language Models predict future events.</td>
-      <td>Python, Together.ai API, Prompt-Engineering</td>
+      <td>Python, Together.ai API, Groq API, Prompt-Engineering, Few-shot Prompting</td>
     </tr>
   </table>
   
