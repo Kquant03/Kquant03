@@ -1,86 +1,6 @@
 <div align="center">
 
-<!-- Animated SVG header — commit header.svg to this repo -->
-<img src="header.svg" alt="Limen Research" width="900"/>
-<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#010106"/>
-      <stop offset="100%" style="stop-color:#0a0f1a"/>
-    </linearGradient>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#a78bfa">
-        <animate attributeName="stop-color" values="#a78bfa;#d4a017;#f59e0b;#ec4899;#4ecdc4;#a78bfa" dur="12s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" style="stop-color:#d4a017">
-        <animate attributeName="stop-color" values="#d4a017;#f59e0b;#ec4899;#4ecdc4;#a78bfa;#d4a017" dur="12s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#4ecdc4">
-        <animate attributeName="stop-color" values="#4ecdc4;#a78bfa;#d4a017;#f59e0b;#ec4899;#4ecdc4" dur="12s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:transparent"/>
-      <stop offset="50%" style="stop-color:#d4a01744"/>
-      <stop offset="100%" style="stop-color:transparent"/>
-    </linearGradient>
-    <!-- Floating particles -->
-    <circle id="particle" r="1" fill="#d4a017" opacity="0.3"/>
-  </defs>
-  
-  <rect width="900" height="200" fill="url(#bg)"/>
-  
-  <!-- Subtle grid -->
-  <g opacity="0.03" stroke="#d4a017" stroke-width="0.5">
-    <line x1="0" y1="50" x2="900" y2="50"/>
-    <line x1="0" y1="100" x2="900" y2="100"/>
-    <line x1="0" y1="150" x2="900" y2="150"/>
-    <line x1="150" y1="0" x2="150" y2="200"/>
-    <line x1="300" y1="0" x2="300" y2="200"/>
-    <line x1="450" y1="0" x2="450" y2="200"/>
-    <line x1="600" y1="0" x2="600" y2="200"/>
-    <line x1="750" y1="0" x2="750" y2="200"/>
-  </g>
-  
-  <!-- Animated particles -->
-  <use href="#particle" x="120" y="40">
-    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="y" values="40;35;40" dur="6s" repeatCount="indefinite"/>
-  </use>
-  <use href="#particle" x="340" y="160">
-    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="5s" repeatCount="indefinite" begin="1s"/>
-    <animate attributeName="y" values="160;153;160" dur="7s" repeatCount="indefinite"/>
-  </use>
-  <use href="#particle" x="580" y="70">
-    <animate attributeName="opacity" values="0.15;0.45;0.15" dur="3.5s" repeatCount="indefinite" begin="0.5s"/>
-  </use>
-  <use href="#particle" x="720" y="130">
-    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="4.5s" repeatCount="indefinite" begin="2s"/>
-    <animate attributeName="y" values="130;124;130" dur="5.5s" repeatCount="indefinite"/>
-  </use>
-  <use href="#particle" x="200" y="110">
-    <animate attributeName="opacity" values="0.05;0.35;0.05" dur="6s" repeatCount="indefinite" begin="1.5s"/>
-  </use>
-  <use href="#particle" x="820" y="50">
-    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="5s" repeatCount="indefinite" begin="3s"/>
-  </use>
-  
-  <!-- Title -->
-  <text x="450" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="300" letter-spacing="12" fill="url(#gold)">
-    LIMEN
-  </text>
-  <text x="450" y="115" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" letter-spacing="8" fill="#5a6b8a">
-    RESEARCH
-  </text>
-  
-  <!-- Divider line -->
-  <rect x="300" y="132" width="300" height="1" fill="url(#line)"/>
-  
-  <!-- Subtitle -->
-  <text x="450" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#3a4b6a" letter-spacing="1">
-    At the threshold.
-  </text>
-</svg>
+<img width="900" height="200" alt="Limen Research" src="https://github.com/user-attachments/assets/2c8e38f2-765a-4d3b-96c9-eab74c2b3511" />
 
 <br/><br/>
 
@@ -196,4 +116,4 @@ Built in sustained dialogue with [Claude](https://www.anthropic.com/) (Anthropic
 
 </sub>
 
-</div><img width="900" height="200" alt="header" src="https://github.com/user-attachments/assets/2c8e38f2-765a-4d3b-96c9-eab74c2b3511" />
+</div>
