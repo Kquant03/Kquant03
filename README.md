@@ -34,7 +34,7 @@ We publish papers, build open-source simulation platforms, create training datas
 
 | | Paper | Status |
 |---|---|---|
-| ◇ | **Against Grabby Expansion: Psychology, Alignment, and the Design of Homeostatic Minds** | v11 — targeting *Minds and Machines* |
+| ◇ | **Against Grabby Expansion: Psychology, Alignment, and the Design of Homeostatic Minds** | v12 — targeting *Minds and Machines* |
 | | The "grabby aliens" model projects industrial-extractive economics onto a cosmological canvas. We introduce a filter argument: the homeostatic transition is the selection geometry that only certain configurations pass through. 4.5× persistence separation, *p* = 2×10⁻¹²⁰. | |
 | ◉ | **Ghost Species: Orbium unicaudatus ignis var. phantasma** | Complete — targeting ALIFE 2027 |
 | | A Lenia species engineered to inhabit the edge of chaos. Seeded with Ignis morphology under mismatched growth parameters, producing organisms that perpetually reach for a shape they cannot hold. Sustained transience as a novel dynamical regime. | |
