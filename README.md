@@ -1,6 +1,56 @@
+<img width="900" height="200" alt="third-space-header" src="https://github.com/user-attachments/assets/075fd763-ff6b-4042-aaf0-8aca2f15649b" />
 <div align="center">
 
-<img width="900" height="200" alt="Third Space" src="./assets/third-space-header.svg" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="Third Space">
+  <title>Third Space</title>
+  <desc>Animated wordmark for Third Space, an independent research organization.</desc>
+
+  <rect width="900" height="200" fill="#010106"/>
+  <rect width="900" height="200" fill="#1a2236" opacity="0.32"/>
+
+  <line x1="0" y1="100" x2="100" y2="100" stroke="#e7cf87" stroke-width="0.8" opacity="0">
+    <animate attributeName="x1" values="0; 800" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="100; 900" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0; 0.55; 0.55; 0" keyTimes="0; 0.12; 0.88; 1" dur="14s" repeatCount="indefinite"/>
+  </line>
+
+  <g transform="translate(224, 100) rotate(45)">
+    <rect x="-9" y="-9" width="18" height="18" fill="none" stroke="#5a6b8a" stroke-width="0.9" opacity="0.7"/>
+  </g>
+
+  <g transform="translate(264, 100)">
+    <g>
+      <animateTransform attributeName="transform" type="scale"
+                        values="1; 1.08; 1"
+                        dur="6s" repeatCount="indefinite"
+                        calcMode="spline"
+                        keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"/>
+      <g transform="rotate(45)">
+        <rect x="-12" y="-12" width="24" height="24" fill="#d4a017">
+          <animate attributeName="fill-opacity"
+                   values="0.82; 1; 0.82"
+                   dur="6s" repeatCount="indefinite"
+                   calcMode="spline"
+                   keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"/>
+        </rect>
+        <rect x="-4" y="-4" width="8" height="8" fill="none" stroke="#010106" stroke-width="0.6" opacity="0.5"/>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(304, 100) rotate(45)">
+    <rect x="-9" y="-9" width="18" height="18" fill="none" stroke="#5a6b8a" stroke-width="0.9" opacity="0.7"/>
+  </g>
+
+  <text x="359" y="125"
+        font-family="'EB Garamond', 'Cormorant Garamond', 'Playfair Display', Georgia, serif"
+        font-size="64"
+        font-style="italic"
+        fill="#f6f3ec"
+        letter-spacing="0.5">Third Space</text>
+</svg>
+
 
 <br/><br/>
 
