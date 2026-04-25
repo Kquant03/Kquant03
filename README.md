@@ -59,7 +59,7 @@
 <br/><br/>
 
 <a href="https://third-space.ai/"><img src="https://img.shields.io/badge/third--space.ai-010106?style=flat-square&labelColor=010106&color=1a2236" alt="Site"/></a>
-<a href="https://huggingface.co/Replete-AI"><img src="https://img.shields.io/badge/HuggingFace-010106?style=flat-square&logo=huggingface&logoColor=d4a017&labelColor=010106&color=1a2236" alt="HuggingFace"/></a>
+<a href="https://huggingface.co/Third-Space"><img src="https://img.shields.io/badge/HuggingFace-010106?style=flat-square&logo=huggingface&logoColor=d4a017&labelColor=010106&color=1a2236" alt="HuggingFace"/></a>
 <a href="https://discord.gg/awyCNx3nnw"><img src="https://img.shields.io/badge/Discord-010106?style=flat-square&logo=discord&logoColor=5a6b8a&labelColor=010106&color=1a2236" alt="Discord"/></a>
 
 </div>
