@@ -3,8 +3,6 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="Third Space">
-  <title>Third Space</title>
-  <desc>Animated wordmark for Third Space, an independent research organization.</desc>
 
   <rect width="900" height="200" fill="#010106"/>
   <rect width="900" height="200" fill="#1a2236" opacity="0.32"/>
