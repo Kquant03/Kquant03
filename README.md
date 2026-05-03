@@ -40,13 +40,6 @@
   <g transform="translate(304, 100) rotate(45)">
     <rect x="-9" y="-9" width="18" height="18" fill="none" stroke="#5a6b8a" stroke-width="0.9" opacity="0.7"/>
   </g>
-
-  <text x="359" y="125"
-        font-family="'EB Garamond', 'Cormorant Garamond', 'Playfair Display', Georgia, serif"
-        font-size="64"
-        font-style="italic"
-        fill="#f6f3ec"
-        letter-spacing="0.5">Third Space</text>
 </svg>
 
 
