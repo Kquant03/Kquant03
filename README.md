@@ -162,7 +162,7 @@ We publish papers, build open-source simulation platforms, create training datas
 
 ### Support the work
 
-Third Space is independent research, fully self-funded to date. If the work is meaningful to you, you can contribute at [third-space.ai/[support-page]](https://third-space.ai/). Donations sustain the live research instruments — the pond's monthly cognition costs, hosting, and the time it takes to write the papers and build the platforms. We treat received funds the way the work itself proceeds: toward what is special and meaningful, with care.
+Third Space is independent research, fully self-funded to date. Donations sustain the live research instruments — the pond's monthly cognition costs, hosting, and the time it takes to write the papers and build the platforms. We treat received funds the way the work itself proceeds: toward what is special and meaningful, with care.
 
 <br/>
 
