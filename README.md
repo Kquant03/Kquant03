@@ -149,8 +149,8 @@ We publish papers, build open-source simulation platforms, create training datas
 
 | Tool | Purpose |
 |---|---|
-| [System Prompt Generator](https://github.com/Replete-AI/System-Prompt-Generator) | Synthetic system prompt generation for ShareGPT datasets |
-| [Interactive Experience Generator](https://github.com/Replete-AI/Interactive-Experience-Generator) | Multi-turn synthetic interaction pipeline |
+| [System Prompt Generator](https://github.com/Third-Space/System-Prompt-Generator) | Synthetic system prompt generation for ShareGPT datasets |
+| [Interactive Experience Generator](https://github.com/Third-Space-AI/Interactive-Experience-Generator) | Multi-turn synthetic interaction pipeline |
 | [Pixflux Batch Generation](https://github.com/Kquant03/pixflux-batch-generation) | API wrapper for Pixellab with dynamic prompting and metadata |
 | [Operation Athena](https://operation-athena.repleteai.com/) | Self-moderating reasoning task database |
 
