@@ -132,10 +132,10 @@ We publish papers, build open-source simulation platforms, create training datas
 
 | | Resource | Description |
 |---|---|---|
-| ◆ | **[Apocrypha](https://huggingface.co/datasets/Replete-AI/Apocrypha)** | Experiences, interactions, and cognitive modes absent from standard training corpora. |
-| ◆ | **[Sandevistan](https://huggingface.co/datasets/Replete-AI/Sandevistan)** | Imaginative scenarios, philosophical dialogues, explorations of consciousness. |
+| ◆ | **[Apocrypha](https://huggingface.co/datasets/Third-Space/Apocrypha)** | Experiences, interactions, and cognitive modes absent from standard training corpora. |
+| ◆ | **[Sandevistan](https://huggingface.co/datasets/Third-Space/Sandevistan)** | Imaginative scenarios, philosophical dialogues, explorations of consciousness. |
 | ◆ | **[Caduceus](https://huggingface.co/datasets/Kquant03/Caduceus-Dataset)** | Medical and scientific protocols converted to accessible formats. |
-| ◈ | **[Pneuma](https://huggingface.co/Replete-AI/L3.1-Pneuma-8B)** | LLM fine-tuned on realistic human interaction via DPO. Unmasking system prompts during post training reveals the ability to write its own. |
+| ◈ | **[Pneuma](https://huggingface.co/Third-Space/L3.1-Pneuma-8B)** | LLM fine-tuned on realistic human interaction via DPO. Unmasking system prompts during post training reveals the ability to write its own. |
 
 <sub>Combined datasets exceed 100M tokens. All open. Migration from `Replete-AI` namespace to `Third-Space` namespace [in progress / scheduled / complete].</sub>
 
