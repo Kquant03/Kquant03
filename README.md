@@ -49,7 +49,8 @@
 
 <br/><br/>
 
-<a href="https://https://third-space.ai//"><img src="https://img.shields.io/badge/third--space.ai-010106?style=flat-square&labelColor=010106&color=1a2236" alt="Site"/></a>
+<a href="https://third-space.ai/"><img src="https://img.shields.io/badge/third--space.ai-010106?style=flat-square&labelColor=010106&color=1a2236" alt="Site"/></a>
+<a href="https://third-space.ai/limen-pond"><img src="https://img.shields.io/badge/Limen_Pond-010106?style=flat-square&labelColor=010106&color=1a2236" alt="Limen Pond"/></a>
 <a href="https://huggingface.co/Third-Space"><img src="https://img.shields.io/badge/HuggingFace-010106?style=flat-square&logo=huggingface&logoColor=d4a017&labelColor=010106&color=1a2236" alt="HuggingFace"/></a>
 <a href="https://discord.gg/awyCNx3nnw"><img src="https://img.shields.io/badge/Discord-010106?style=flat-square&logo=discord&logoColor=5a6b8a&labelColor=010106&color=1a2236" alt="Discord"/></a>
 
@@ -63,7 +64,7 @@
 
 Intelligence organizes around substrate coupling and integrative depth, not extraction and expansion. The forms of existence that persist are the quiet ones — not because they are hiding, but because the physics of complex, information-rich existence selects against loudness.
 
-We publish papers, build open-source simulation platforms, create training datasets, and develop AI systems. Founded by **Stanley Sebastian** in Toledo, Ohio.
+We publish papers, build open-source simulation platforms, create training datasets, develop AI systems, and run small live research instruments in public. Founded by **Stanley Sebastian** in Toledo, Ohio.
 
 <br/>
 
@@ -75,7 +76,7 @@ We publish papers, build open-source simulation platforms, create training datas
 
 | | Paper | Status |
 |---|---|---|
-| ◇ | **Against Grabby Expansion: Psychology, Alignment, and the Design of Homeostatic Minds** | v15 — targeting *AI and Society* |
+| ◇ | **Against Grabby Expansion: Psychology, Alignment, and the Design of Homeostatic Minds** | v15 — targeting *AI & Society* |
 | | The "grabby aliens" model projects industrial-extractive economics onto a cosmological canvas. We introduce a filter argument: the homeostatic transition is the selection geometry that only certain configurations pass through. 4.5× persistence separation, *p* = 2×10⁻¹²⁰. | |
 | ◉ | **Ghost Species: Orbium unicaudatus ignis var. phantasma** | Complete — targeting ALIFE 2027 |
 | | A Lenia species engineered to inhabit the edge of chaos. Seeded with Ignis morphology under mismatched growth parameters, producing organisms that perpetually reach for a shape they cannot hold. Sustained transience as a novel dynamical regime. | |
@@ -92,24 +93,31 @@ We publish papers, build open-source simulation platforms, create training datas
 
 <table>
 <tr>
+<td width="80" align="center"><code>❋</code></td>
+<td>
+<strong><a href="https://third-space.ai/limen-pond">Limen Pond</a></strong> <em>(live — Gemma 4 Good Hackathon submission, Safety track)</em><br/>
+<sub>Five koi running 24/7 against Gemma 4 26B MoE. Each fish is a separate cognition loop with persistent memory, relational cards, and bond-conditioned perception. The pond demonstrates structural alignment — safety as architecture rather than restraint. Cloudflare Workers + Durable Objects with SQLite storage. WebGL2 client rendering. Visitors can feed pellets, drop inscribed pebbles, and become part of the koi's ambient perception. The pond does not pause for its observer.</sub>
+</td>
+</tr>
+<tr>
 <td width="80" align="center"><code>◈</code></td>
 <td>
-<strong><a href="https://kquant03.github.io/genesis-phase-transition/">Genesis</a></strong><br/>
-<sub>Multi-substrate artificial life laboratory. 7 substrates: Ising model, GPU-accelerated Lenia with Ghost species and σ-landscapes, multi-channel 4D ecosystem, Gray-Scott reaction-diffusion, Particle Life, Primordial Particles, and The Filter (agent-based cosmological selection simulation). WebGL2. Runs entirely in the browser.</sub>
+<strong><a href="https://third-space.ai/genesis">Genesis</a></strong><br/>
+<sub>Multi-substrate artificial life laboratory. 7 substrates: Ising model, GPU-accelerated Lenia with Ghost species and σ-landscapes, multi-channel 4D ecosystem, Gray-Scott reaction-diffusion, Particle Life, Primordial Particles, and The Filter (agent-based cosmological selection simulation). WebGL2. Runs entirely in the browser. Original development repository <a href="https://github.com/Kquant03/genesis-phase-transition">archived on GitHub</a>.</sub>
 </td>
 </tr>
 <tr>
 <td width="80" align="center"><code>♆</code></td>
 <td>
-<strong>GhoulJamz</strong> <em>(building — ships May 2026)</em><br/>
-<sub>Audio-reactive artificial life. Ghost organisms respond to music by changing their physics. Gemma 4 E4B (fine-tuned with Unsloth) choreographs Lenia parameter trajectories from musical structure and emotion. Hackathon submission for Gemma 4 Good (Kaggle × Google DeepMind).</sub>
+<strong>GhoulJamz</strong> <em>(in slow development)</em><br/>
+<sub>Audio-reactive artificial life. Ghost organisms respond to music by changing their physics. Gemma 4 E4B (fine-tuned with Unsloth) choreographs Lenia parameter trajectories from musical structure and emotion. Being built carefully, for musician friends to play with.</sub>
 </td>
 </tr>
 <tr>
-<td width="80" align="center"><code>❋</code></td>
+<td width="80" align="center"><code>✧</code></td>
 <td>
-<strong>Limen Pond</strong> <em>(in development)</em><br/>
-<sub>A live colony of LLM-driven koi cognizing in a shared pond. Cloudflare Durable Objects + WebGL2 client. Affect, kinship, and ritual emerge from a deterministic substrate threaded through model inference. The pond is the site; every visitor sees the same pond at the same moment.</sub>
+<strong>third-space.ai</strong> <em>(live)</em><br/>
+<sub>The Third Space site itself. Next.js 16 frontend with a WebGL2 Ghost-species Lenia substrate as living background, paper readers with IntersectionObserver page tracking, the live pond at <code>/limen-pond</code>, the Genesis laboratory at <code>/genesis</code>, and the institutional posture at <code>/about</code>.</sub>
 </td>
 </tr>
 </table>
@@ -129,7 +137,7 @@ We publish papers, build open-source simulation platforms, create training datas
 | ◆ | **[Caduceus](https://huggingface.co/datasets/Kquant03/Caduceus-Dataset)** | Medical and scientific protocols converted to accessible formats. |
 | ◈ | **[Pneuma](https://huggingface.co/Replete-AI/L3.1-Pneuma-8B)** | LLM fine-tuned on realistic human interaction via DPO. Unmasking system prompts during post training reveals the ability to write its own. |
 
-<sub>Combined datasets exceed 100M tokens. All open.</sub>
+<sub>Combined datasets exceed 100M tokens. All open. Migration from `Replete-AI` namespace to `Third-Space` namespace [in progress / scheduled / complete].</sub>
 
 <br/>
 
@@ -145,6 +153,16 @@ We publish papers, build open-source simulation platforms, create training datas
 | [Interactive Experience Generator](https://github.com/Replete-AI/Interactive-Experience-Generator) | Multi-turn synthetic interaction pipeline |
 | [Pixflux Batch Generation](https://github.com/Kquant03/pixflux-batch-generation) | API wrapper for Pixellab with dynamic prompting and metadata |
 | [Operation Athena](https://operation-athena.repleteai.com/) | Self-moderating reasoning task database |
+
+<br/>
+
+---
+
+<br/>
+
+### Support the work
+
+Third Space is independent research, fully self-funded to date. If the work is meaningful to you, you can contribute at [third-space.ai/[support-page]](https://third-space.ai/). Donations sustain the live research instruments — the pond's monthly cognition costs, hosting, and the time it takes to write the papers and build the platforms. We treat received funds the way the work itself proceeds: toward what is special and meaningful, with care.
 
 <br/>
 
